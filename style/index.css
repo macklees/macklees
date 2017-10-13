@@ -2,3 +2,6 @@
   font-family: "circular-book";
   src: url("./circular-book/lineto-circular-pro-bold.woff");
 }
+h1 {
+  font-family: "circular-book";
+}
