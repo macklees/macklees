@@ -1,7 +1,11 @@
-@@font-face {
+@font-face {
   font-family: "circular-book";
   src: url("./circular-book/lineto-circular-pro-bold.woff");
 }
 h1 {
   font-family: "circular-book";
+  font-size: 60px;
+}
+body {
+  background-color: white;
 }
